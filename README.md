@@ -36,18 +36,11 @@ destination using a stepper.
 
 The current value of the stepper is always reflected in the home screen.
 
-![List counters](list.png)
-
-### Changing a counter’s name
-
-A user should be able to rename each counter’s title. A swipe gesture reveals
-an edit button. Tapping on it will bring up the popover with the text field.
-
-![Edit](edit.png)
+![List counters](edit.png)
 
 ### Deleting counters
 
-Users may want to delete counters, and we’ve got them covered. Each stepper
+Users may want to delete counters, and we’ve got them covered. In the home screen, each stepper
 row can be deleted by a swipe gesture, as shown above.
 
 ![Swipe](swipe.png)
